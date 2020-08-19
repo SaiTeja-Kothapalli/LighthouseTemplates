@@ -1,0 +1,84 @@
+[
+    {
+        "principalId": "9be6e879-70db-4419-b19c-31a659424160",
+        "principalIdDisplayName": "CSP-Customer_Contributor",
+        "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+    },
+    {
+        "principalId": "3b843d05-b441-457c-9cc6-164836db980a",
+        "principalIdDisplayName": "CSP-Customer_Managed Services Registrations Assignment Delete Role",
+        "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
+    },
+    {
+        "principalId": "ffc41e98-7d8e-4cc7-a7bf-0dd0523d8f08",
+        "principalIdDisplayName": "CSP-Customer_Reader",
+        "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+    },
+    {
+        "principalId": "54eccb5b-028e-45c7-9bc1-73c188800e7b",
+        "principalIdDisplayName": "CSP-Customer_Cost Management Contributor",
+        "roleDefinitionId": "434105ed-43f6-45c7-a02f-909b2ba83430"
+    },
+    {
+        "principalId": "c458fe61-37fc-482f-87e2-8f16de76b859",
+        "principalIdDisplayName": "CSP-Customer_Cost Management Reader",
+        "roleDefinitionId": "72fafb9e-0641-4937-9268-a91bfd8191a3"
+    },
+    {
+        "principalId": "bf26a1b1-2da2-4f19-9a89-e5574edd0e42",
+        "principalIdDisplayName": "CSP-Customer_Blueprint Contributor",
+        "roleDefinitionId": "41077137-e803-4205-871c-5a86e6a753b4"
+    },
+    {
+        "principalId": "0dd60c85-d9e1-412b-a7dc-269c36359f3b",
+        "principalIdDisplayName": "CSP-Customer_Blueprint Operator",
+        "roleDefinitionId": "437d2ced-4a38-4302-8479-ed2bcb43d090"
+    },
+    {
+        "principalId": "7b02d75b-c505-4e56-bcfd-b9ca98ba131d",
+        "principalIdDisplayName": "CSP-Customer_Managed Identity Operator",
+        "roleDefinitionId": "f1a07417-d97a-45cb-824c-7a7467783830"
+    },
+    {
+        "principalId": "ffec60c2-de4d-419c-b310-7cd2b04d8f56",
+        "principalIdDisplayName": "CSP-Customer_Virtual Machine Contributor",
+        "roleDefinitionId": "9980e02c-c2be-4d73-94e8-173b1dc7cf3c"
+    },
+    {
+        "principalId": "70af400b-a77b-48e4-a8bc-5bb71ce7e0ea",
+        "principalIdDisplayName": "CSP-Customer_Logic App Contributor",
+        "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"
+    },
+    {
+        "principalId": "0c67d493-aa51-4dd8-a1a8-7dcf6963e96a",
+        "principalIdDisplayName": "CSP-Customer_Logic App Operator",
+        "roleDefinitionId": "515c2055-d9d4-4321-b1b9-bd0c9a0f79fe"
+    },
+    {
+        "principalId": "64055367-1162-4588-a75b-a83b82ed063d",
+        "principalIdDisplayName": "CSP-Customer_Log Analytics Contributor",
+        "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+    },
+    {
+        "principalId": "aa3fe6ac-d8d6-4356-81fc-c47ab6d41acf",
+        "principalIdDisplayName": "CSP-Customer_Log Analytics Reader",
+        "roleDefinitionId": "73c42c96-874c-492b-b04d-ab87d138a893"
+    },
+    {
+        "principalId": "c02d55a4-1aa5-46cf-b256-d207d72cdbd1",
+        "principalIdDisplayName": "CSP-Customer_Site Recovery Contributor",
+        "roleDefinitionId": "6670b86e-a3f7-4917-ac9b-5d6ab1be4567"
+    },
+    {
+        "principalId": "014abf0f-617d-4cde-b88d-ce98ca1be6fa",
+        "principalIdDisplayName": "CSP-Customer_Site Recovery Operator",
+        "roleDefinitionId": "494ae006-db33-4328-bf46-533a6560a3ca"
+    },
+    {
+        "principalId": "b5c9defa-a720-4fa5-bcf1-05be10d3fe2b",
+        "principalIdDisplayName": "CSP-Customer_Site Recovery Reader",
+        "roleDefinitionId": "dbaa88c4-0c30-4179-9fb3-46319faa6149"
+    }
+   
+                    
+]
